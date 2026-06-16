@@ -1,0 +1,16 @@
+.env
+.txt
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+
+# Generated reports and local outputs
+complaint_analysis_results.csv
+results.csv
+summary_report.pdf
+
+# Streamlit local config
+.streamlit/secrets.toml
